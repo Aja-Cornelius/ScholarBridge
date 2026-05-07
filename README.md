@@ -5,7 +5,7 @@
 ![ScholarBridge Banner](public/logo.jpg)
 
 ## 🚀 Live Demo
-[View Live Site](https://scholarbridge.site) *(Replace with your deployment URL)*
+[View Live Site](https://scholarbridge.site)
 
 ---
 
